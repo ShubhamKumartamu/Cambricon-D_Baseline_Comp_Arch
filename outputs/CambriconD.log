@@ -1,0 +1,10 @@
+
+Running convolution for GUID 128...
+Total Cycles: 1048576
+Activation memory accesses: 4096
+Weight memory accesses: 524288
+
+Running convolution for GUID 512...
+Total Cycles: 16777216
+Activation memory accesses: 16384
+Weight memory accesses: 8388608

@@ -1,0 +1,10 @@
+
+GUID 128 Results:
+Total Memory Access Cycles: 393216
+Total Cycles for Simulation: 1982464
+Memory Access Time: 174.76 ns
+
+GUID 512 Results:
+Total Memory Access Cycles: 3932160
+Total Cycles for Simulation: 31719424
+Memory Access Time: 2796.20 ns
